@@ -1,5 +1,9 @@
-earth
+地球
 =====
+应用”地球“来自于Github项目[cambecc/earth](https://github.com/cambecc/earth), 它以图形化的方式展现了地球气候实时影像。
+
+下面内容为原项目内容
+=====================
 
 **NOTE: the location of `dev-server.js` has changed from `{repository}/server/` to `{repository}/`**
 
